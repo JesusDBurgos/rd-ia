@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/rd-ia/static/css/main.196c62c5.css",
+    "main.js": "/rd-ia/static/js/main.3113d107.js",
+    "static/js/453.7b0480de.chunk.js": "/rd-ia/static/js/453.7b0480de.chunk.js",
+    "static/media/fa-solid-900.svg": "/rd-ia/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/Mecatronica06.jpg": "/rd-ia/static/media/Mecatronica06.6529079c1cee0f9c50ad.jpg",
+    "static/media/Mecatronica02.jpg": "/rd-ia/static/media/Mecatronica02.67aa911e6c139c0fb711.jpg",
+    "static/media/Mecatronica03.jpg": "/rd-ia/static/media/Mecatronica03.fd527c3859aa4a5ee7a1.jpg",
+    "static/media/fa-brands-400.svg": "/rd-ia/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/Mecatronica01.jpg": "/rd-ia/static/media/Mecatronica01.7dda93b632f4bf7988fd.jpg",
+    "static/media/fa-solid-900.eot": "/rd-ia/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/rd-ia/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/bootstrap-icons.woff?": "/rd-ia/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-regular-400.svg": "/rd-ia/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/rd-ia/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/rd-ia/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/bootstrap-icons.woff2?": "/rd-ia/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fa-solid-900.woff": "/rd-ia/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/rd-ia/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-solid-900.woff2": "/rd-ia/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/rd-ia/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/Bot_IA.png": "/rd-ia/static/media/Bot_IA.8702105639b812a23e73.png",
+    "static/media/Logo_Elaine.JPG": "/rd-ia/static/media/Logo_Elaine.e70c71b36188441ab4b0.JPG",
+    "static/media/fa-regular-400.eot": "/rd-ia/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/rd-ia/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/fa-regular-400.woff": "/rd-ia/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/rd-ia/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "index.html": "/rd-ia/index.html",
+    "main.196c62c5.css.map": "/rd-ia/static/css/main.196c62c5.css.map",
+    "main.3113d107.js.map": "/rd-ia/static/js/main.3113d107.js.map",
+    "453.7b0480de.chunk.js.map": "/rd-ia/static/js/453.7b0480de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.196c62c5.css",
+    "static/js/main.3113d107.js"
+  ]
+}
